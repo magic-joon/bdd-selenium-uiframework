@@ -1,0 +1,42 @@
+{
+  "baseURL" : {
+    "cssSelector": "NA",
+    "type": "link",
+    "value": "http://automationpractice.com/index.php"
+  },
+  "dresses" : {
+    "cssSelector": "#block_top_menu > ul > li:nth-child(2) > a",
+    "type": "link",
+    "value": "NA"
+  },
+  "summer-dresses" : {
+    "cssSelector": "#subcategories > ul > li:nth-child(3) > h5 > a",
+    "type": "link",
+    "value": "NA"
+  },
+  "printed-summer-dresses" : {
+    "cssSelector": "#center_column > ul > li.ajax_block_product.col-xs-12.col-sm-6.col-md-4.first-in-line.last-line.first-item-of-tablet-line.first-item-of-mobile-line.last-mobile-line > div > div.right-block > h5 > a",
+    "type": "link",
+    "value": "NA"
+  },
+  "add-to-cart" : {
+    "cssSelector": "#add_to_cart > button > span",
+    "type": "link",
+    "value": "NA"
+  },
+  "proceed-to-checkout" : {
+    "cssSelector": "#layer_cart > div.clearfix > div.layer_cart_cart.col-xs-12.col-md-6 > div.button-container > a > span",
+    "type": "link",
+    "value": "NA"
+  },
+  "proceed-to-checkout-summary" : {
+    "cssSelector": "#center_column > p.cart_navigation.clearfix > a.button.btn.btn-default.standard-checkout.button-medium > span",
+    "type": "link",
+    "value": "NA"
+  },
+  "sign-in-button" : {
+    "cssSelector": "#SubmitLogin > span",
+    "type": "button",
+    "value": "NA"
+  }
+}
